@@ -45,7 +45,7 @@ The dataset contains 10,000 samples and 14 features, including:
 - **Operational Metrics**: Air temperature, process temperature, rotational speed, torque, tool wear.
 - **Failure Modes**: Tool wear failure (TWF), heat dissipation failure (HDF), power failure (PWF), overstrain failure (OSF), and random failures (RNF).
 
-The target variable, `machine failure`, is a binary label indicating failure occurrence.
+- The target variable, `machine failure`, is a binary label indicating failure occurrence.
 ---
 
 ## Key Highlights
